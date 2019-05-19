@@ -1,0 +1,873 @@
+# depslib dependency file v1.0
+1402112416 source:c:\users\eduardo\desktop\modularizado\drifts\desenha_tela_ajustes.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402117786 c:\users\eduardo\desktop\modularizado\drifts\objetos.h
+
+1402112263 source:c:\users\eduardo\desktop\modularizado\drifts\desenha_tela_gameover.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402112263 source:c:\users\eduardo\desktop\modularizado\drifts\desenha_tela_inicial.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402119232 source:c:\users\eduardo\desktop\modularizado\drifts\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402112496 source:c:\users\eduardo\desktop\modularizado\drifts\metodos_background.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402112805 source:c:\users\eduardo\desktop\modularizado\drifts\metodos_bolas.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402112805 source:c:\users\eduardo\desktop\modularizado\drifts\metodos_bonus.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402106372 source:c:\users\eduardo\desktop\modularizado\drifts\metodos_cursor_bola.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402110654 source:c:\users\eduardo\desktop\modularizado\drifts\metodos_inimigos.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402119400 source:c:\users\eduardo\desktop\modularizado\drifts\desenha_tela_ranking.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402119490 source:c:\users\eduardo\desktop\modularizado\drifts\metodos_ranking.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402112416 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\desenha_tela_ajustes.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402172919 c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\objetos.h
+
+1402112263 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\desenha_tela_gameover.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402112263 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\desenha_tela_inicial.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402189890 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\desenha_tela_ranking.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402188033 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402112496 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\metodos_background.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402112805 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\metodos_bolas.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402112805 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\metodos_bonus.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402106372 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\metodos_cursor_bola.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402110654 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\metodos_inimigos.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402188179 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\metodos_ranking.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402189608 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\desenha_tela_pre_ranking.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402185608 source:c:\users\eduardo\desktop\nova pasta (3)\modularizado\drifts\metodos_tela_pre_ranking.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402112416 source:c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\desenha_tela_ajustes.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402172919 c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\objetos.h
+
+1402112263 source:c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\desenha_tela_gameover.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402112263 source:c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\desenha_tela_inicial.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402196541 source:c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402112496 source:c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\metodos_background.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402112805 source:c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\metodos_bolas.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402112805 source:c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\metodos_bonus.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402106372 source:c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\metodos_cursor_bola.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402110654 source:c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\metodos_inimigos.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402188179 source:c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\metodos_ranking.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402196160 source:c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\desenha_tela_pre_ranking.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402196202 source:c:\users\eduardo\desktop\nova pasta (3)\project07-06\modularizado\drifts\desenha_tela_ranking.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402112416 source:c:\users\eduardo\desktop\nova pasta (3)\drifts\desenha_tela_ajustes.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402172919 c:\users\eduardo\desktop\nova pasta (3)\drifts\objetos.h
+
+1402112263 source:c:\users\eduardo\desktop\nova pasta (3)\drifts\desenha_tela_gameover.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402112263 source:c:\users\eduardo\desktop\nova pasta (3)\drifts\desenha_tela_inicial.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402196160 source:c:\users\eduardo\desktop\nova pasta (3)\drifts\desenha_tela_pre_ranking.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402207382 source:c:\users\eduardo\desktop\nova pasta (3)\drifts\desenha_tela_ranking.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402207439 source:c:\users\eduardo\desktop\nova pasta (3)\drifts\metodos_background.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402207758 source:c:\users\eduardo\desktop\nova pasta (3)\drifts\metodos_bolas.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402207781 source:c:\users\eduardo\desktop\nova pasta (3)\drifts\metodos_bonus.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402207802 source:c:\users\eduardo\desktop\nova pasta (3)\drifts\metodos_cursor_bola.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402207810 source:c:\users\eduardo\desktop\nova pasta (3)\drifts\metodos_inimigos.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	"objetos.h"
+
+1402188179 source:c:\users\eduardo\desktop\nova pasta (3)\drifts\metodos_ranking.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+
+1402207276 source:c:\users\eduardo\desktop\nova pasta (3)\drifts\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<list>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	"objetos.h"
+

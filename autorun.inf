@@ -1,0 +1,3 @@
+[autorun]
+open=winopen \sd_installer.exe
+icon=icone.ico
